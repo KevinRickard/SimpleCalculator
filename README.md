@@ -3,7 +3,6 @@ An Android app built as practice for Android development. The layout of the app 
 
 ## Specifications
 This project requires Android Studio to be built. (Created on version 2.1.2, but should be importable on any version >= 2.1.2)
-
 This app requires Android API level 19 (KitKat) or higher.
 
 ## License
